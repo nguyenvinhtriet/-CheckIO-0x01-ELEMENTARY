@@ -1,8 +1,8 @@
 # =====================================
 # --*-- coding: utf-8 --*--
-# @Author  : TRHX
-# @Blog    : www.itrhx.com
-# @CSDN    : itrhx.blog.csdn.net
+# @Author  : trietnv
+# @Date    : 2020-04-23
+# @CSDN    : 
 # @FileName: 【01】Multiply (Intro).py
 # =====================================
 
